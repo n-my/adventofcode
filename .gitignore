@@ -27,3 +27,4 @@ go.work.sum
 # AOC
 input
 *.input
+input_sample
